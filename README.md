@@ -2,6 +2,7 @@
 This modification displays the current and last position of enemies in the world.
 
 # Overview
+Lepanto's current position and another ship's last spotted position
 ![image](https://github.com/AndrewTaro/ThreeDimentionalLastSpot/assets/36262823/b90f108b-e264-4320-9150-9f9d54152e3b)
 
 # Install
